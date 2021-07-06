@@ -48,10 +48,16 @@ a{
 .recipie-item{
     display: flex;
 }
-.grill{
-    padding: 20px;
-    
+.box{
+    padding: 25px;
+    border-radius: 10px;
+    width: 40%;
+    margin: 4%;
+    box-shadow:10px 10px 30px gray;
 }
-.rice{
-    width:200px;
+.box h1{
+    color: tomato;
+}
+.pic{
+   border-radius: 10px;
 }
