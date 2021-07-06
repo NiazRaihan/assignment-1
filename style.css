@@ -27,8 +27,28 @@ a{
 }
 .midil-view{
     display:flex;
+    background-image: url(images/Frame\ 58.jpg);
 }
 .about-me{
     color: gray;
     font-size: 50px;
+}
+.midil-view p{
+    width: 80%;
+}
+.about-recipies{
+    text-align: center;
+}
+.about-recipies h1{
+    font-size: 40px;
+}
+.about-recipies p{
+    font-size: 20px;
+}
+.recipie-item{
+    display: flex;
+}
+.grill{
+    padding: 20px;
+    
 }
