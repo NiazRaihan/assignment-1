@@ -61,6 +61,16 @@ a{
 .pic{
    border-radius: 10px;
 }
+.form-submit{
+    display: flex;
+    background-color: rgb(247, 243, 232);
+    padding-bottom: 20px;
+}
+button{
+    color:white;
+    background-color: skyblue;
+    padding: 5px 20px;
+}
 footer{
     background-color: teal;
     text-align: center;
