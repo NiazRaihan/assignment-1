@@ -62,9 +62,10 @@ a{
    border-radius: 10px;
 }
 .form-submit{
+    box-shadow:10px 10px 30px gray;
     display: flex;
-    background-color: rgb(247, 243, 232);
     padding-bottom: 20px;
+    margin: 2%;
 }
 button{
     color:white;
