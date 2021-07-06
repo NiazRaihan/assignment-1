@@ -12,7 +12,7 @@ span{
 .half-part{
     width: 50%;
     padding-left: 5%;
-    font-size: 30px;
+    font-size: 20px;
 } 
 a{
     text-decoration: none;
@@ -31,10 +31,10 @@ a{
 }
 .about-me{
     color: gray;
-    font-size: 50px;
+    font-size: 40px;
 }
 .midil-view p{
-    width: 80%;
+    width: 70%;
 }
 .about-recipies{
     text-align: center;
@@ -51,4 +51,7 @@ a{
 .grill{
     padding: 20px;
     
+}
+.rice{
+    width:200px;
 }
